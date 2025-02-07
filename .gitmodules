@@ -1,0 +1,12 @@
+[submodule "fuzzer"]
+	path = fuzzer
+	url = https://github.com/HF-DGF/fuzzer.git
+[submodule "slicer"]
+	path = slicer
+	url = https://github.com/HF-DGF/slicer.git
+[submodule "runner"]
+	path = runner
+	url = https://github.com/HF-DGF/runner.git
+[submodule "projects_source"]
+	path = projects_source
+	url = https://github.com/HF-DGF/projects_source.git
